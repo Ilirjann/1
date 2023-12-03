@@ -23,7 +23,7 @@ for (int i = 0; i < 101; i++)
     }
     
     if (i%5==0){
-        System.Console.WriteLine("buzz");
+        System.Console.WriteLine("buz");
     }
     
 }
