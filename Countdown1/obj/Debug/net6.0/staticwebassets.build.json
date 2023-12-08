@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pCLFp2VRF2v486KZNTvukGptxYC8HKr6Jgeu9my1Rd4=",
+  "Source": "Countdown1",
+  "BasePath": "_content/Countdown1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Countdown1\\wwwroot",
+      "Source": "Countdown1",
+      "ContentRoot": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\Countdown1\\wwwroot\\",
+      "BasePath": "_content/Countdown1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\Countdown1\\wwwroot\\css\\style.css",
+      "SourceId": "Countdown1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\Countdown1\\wwwroot\\",
+      "BasePath": "_content/Countdown1",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

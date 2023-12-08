@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "kX9WahiAb3dLiwS1cKfdqiW2pGG+yARh3lPCI7sHNTA=",
+  "Source": "web1",
+  "BasePath": "_content/web1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "web1\\wwwroot",
+      "Source": "web1",
+      "ContentRoot": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\web1\\wwwroot\\",
+      "BasePath": "_content/web1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\web1\\wwwroot\\css\\style.css",
+      "SourceId": "web1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\web1\\wwwroot\\",
+      "BasePath": "_content/web1",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\web1\\wwwroot\\css\\user2.css",
+      "SourceId": "web1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ilirjan Dani\\Desktop\\Coding Dojo\\C#\\web1\\wwwroot\\",
+      "BasePath": "_content/web1",
+      "RelativePath": "css/user2.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\user2.css"
+    }
+  ]
+}

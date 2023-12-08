@@ -35,3 +35,23 @@ List<string> icecreamflavors =new List<string>
   Dictionary<string,string>userDictionary=new Dictionary<string,string>();
 
   Random random=newRandom();
+
+
+static Dictionary<string,int> GenerateDictionary(List<string> listaMeFjale, List<int> listaMeInt){
+    Dictionary<string,int> DictionaryQeDoKrijohet = new Dictionary<string, int>();
+
+    for (int i = 0; i < listaMeFjale.Count; i++)
+    {   
+        DictionaryQeDoKrijohet.Add(listaMeFjale[i],listaMeInt[i]);
+    }
+    return DictionaryQeDoKrijohet;
+
+}
+
+Dictionary<string,int> newDictionary = GenerateDictionary(TestStringList,TestIntList3);
+
+foreach (var item in newDictionary)
+{
+    System.Console.WriteLine($" {item.Key}  {item.Value}");
+}
+
