@@ -1,0 +1,15 @@
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\bin\Debug\net6.0\foundamentals3.exe
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\bin\Debug\net6.0\foundamentals3.deps.json
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\bin\Debug\net6.0\foundamentals3.runtimeconfig.json
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\bin\Debug\net6.0\foundamentals3.dll
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\bin\Debug\net6.0\foundamentals3.pdb
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.csproj.AssemblyReference.cache
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.AssemblyInfoInputs.cache
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.AssemblyInfo.cs
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.csproj.CoreCompileInputs.cache
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.dll
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\refint\foundamentals3.dll
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.pdb
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\foundamentals3.genruntimeconfig.cache
+C:\Users\Ilirjan Dani\Desktop\Coding Dojo\C#\foundamentals3\obj\Debug\net6.0\ref\foundamentals3.dll
